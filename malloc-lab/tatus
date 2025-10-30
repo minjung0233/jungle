@@ -1,0 +1,39 @@
+[33mcommit 479e010846e1a424a627759ac50d2f746ba37923[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: minjung0233 <minjung0233@gmail.com>
+Date:   Thu Oct 30 14:25:36 2025 +0900
+
+    Revert "revert"
+    
+    This reverts commit 6f02a708314ef4603ee79e73322427580c861d76.
+
+[33mcommit 6f02a708314ef4603ee79e73322427580c861d76[m
+Author: minjung0233 <minjung0233@gmail.com>
+Date:   Thu Oct 30 14:23:41 2025 +0900
+
+    revert
+
+[33mcommit a1d5d453a03ca094f4ac13ad577701f07be6424c[m
+Author: minjung0233 <minjung0233@gmail.com>
+Date:   Thu Oct 30 14:21:00 2025 +0900
+
+    Revert "malloc-lab"
+    
+    This reverts commit 2cbc7a32664a96d0bbdb56b02c4d9001cd365cb5.
+
+[33mcommit 2cbc7a32664a96d0bbdb56b02c4d9001cd365cb5[m
+Author: minjung0233 <minjung0233@gmail.com>
+Date:   Thu Oct 30 14:01:32 2025 +0900
+
+    malloc-lab
+
+[33mcommit a49b4052a4d6f1f2981375109ecf4412c2295dce[m
+Author: minjung0233 <140968425+minjung0233@users.noreply.github.com>
+Date:   Thu Oct 30 14:06:07 2025 +0900
+
+    Create malloc-lab
+
+[33mcommit c5e56728ac5a5233d86f751c9e8b28efbf13529e[m
+Author: minjung0233 <140968425+minjung0233@users.noreply.github.com>
+Date:   Thu Oct 30 13:59:46 2025 +0900
+
+    Initial commit
