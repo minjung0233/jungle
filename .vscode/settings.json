@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "config.h": "c",
-        "getopt_core.h": "c"
+        "getopt_core.h": "c",
+        "stdint.h": "c",
+        "string.h": "c"
     }
 }
